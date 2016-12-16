@@ -1,0 +1,26 @@
+body{
+	
+	background: #eee;
+}
+
+#frm{
+	border: solid gray 1px;
+	width: 19%;
+	border-radius: 5px;
+	margin:100px auto;
+	background: white;
+	padding: 50px;
+
+}
+#btn{
+	color: white;
+	background: black;
+	padding: 5px;
+	margin-left: 40%;
+}
+#logout {
+    position:absolute;
+    transition: .5s ease;
+    top: 50%;
+    left: 50%;
+}
